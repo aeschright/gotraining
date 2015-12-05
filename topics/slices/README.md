@@ -1,13 +1,13 @@
 ## Slices - Arrays, Slices and Maps
 
-Slices are an incredibly important data structure in Go. They form the basis for how we manage and manipulate data in a flexible, performant and dynamic way. It is incredibly important for all Go programmers to learn how to uses slices.
+Slices are an incredibly important data structure in Go. They form the basis for how we manage and manipulate data in a flexible, performant and dynamic way. It is incredibly important for all Go programmers to learn how to use slices.
 
 ## Notes
 
 * Slices are like dynamic arrays with special and built-in functionality.
-* There is a difference between a slices length and capacity and they each service a purpose.
+* There is a difference between a slice's length and capacity, and they each service a purpose.
 * Slices allow for multiple "views" of the same underlying array.
-* Slices can grow through the use of the built-in function append.
+* Slices can grow through the use of the built-in function `append`.
 
 ## Links
 
@@ -43,7 +43,7 @@ http://www.goinggo.net/2013/12/three-index-slices-in-go-12.html
 
 [Three index slicing](advanced/example1/example1.go) ([Go Playground](http://play.golang.org/p/TepZptJati))
 
-## Exercies
+## Exercises
 
 ### Exercise 1
 
